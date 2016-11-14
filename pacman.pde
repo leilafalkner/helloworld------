@@ -1,0 +1,13 @@
+size(800, 800);
+smooth();
+  strokeWeight(7);
+  strokeCap(SQUARE);
+  fill(230, 234, 17);
+  arc(400, 400, 300, 250, 0.79, 5.50);
+  strokeWeight(30);
+  strokeCap(ROUND);
+  point(400, 350);
+  strokeWeight(7);
+  strokeCap(SQUARE);
+  line(400, 400, 504, 311);
+  line(400, 400, 504, 490);
